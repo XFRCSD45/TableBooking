@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-clock {
+    border: 2px solid #4a90e2;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+  .react-clock__face {
+    stroke: #4a90e2;
+  }
+  
